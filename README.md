@@ -39,3 +39,7 @@ Ikuti langkah-langkah berikut untuk menjalankan backend secara lokal.
    ```bash
    npm start
    ```
+7. **Login**:
+   - Masukan email dan password yang sudah di-seed sebelumnya:
+     - Email: ` siti@example.com`
+     - Password: `password123`

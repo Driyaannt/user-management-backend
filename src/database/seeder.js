@@ -53,7 +53,7 @@ async function seed() {
     });
 
     // ✅ Assign roles to employee
-    const rolesToAssign = ['Perawat', 'Lainnya'];
+    const rolesToAssign = ['Perawat', 'Manajemen']; // Contoh peran yang akan diberikan
     const assignedRoles = await db.Role.findAll({
       where: { role_name: rolesToAssign },
     });
