@@ -15,7 +15,7 @@ Ikuti langkah-langkah berikut untuk menjalankan backend secara lokal.
 
 1. **Clone repository ini** (jika belum):
    ```bash
-   git clone https://github.com/your-username/your-backend-repo.git
+   git clone https://github.com/Driyaannt/user-management-backend.git
    cd your-backend-repo
 
 2. **Instal dependensi**:
